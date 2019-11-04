@@ -14,3 +14,4 @@ Added CSS to my HTML page
 
 [Version 1] (https://chrisdale99.github.io/John-baskerville/history1.html)
 
+A brief History of type
