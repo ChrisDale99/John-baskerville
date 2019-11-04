@@ -7,7 +7,7 @@ Created my first HTML page
 
 *4th November*
 
-[Version 2] (https://chrisdale99.github.io/John-baskerville/baskerville2 copy.html)
+[Version 2] (https://chrisdale99.github.io/John-baskerville/baskerville2.html)
 Added CSS
 
 # History of type
