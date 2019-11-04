@@ -12,5 +12,5 @@ Added CSS to my HTML page
 
 # History of type
 
-[Version 1] https://chrisdale99.github.io/
+[Version 1] (https://chrisdale99.github.io/John-baskerville/history1.html)
 
