@@ -16,4 +16,8 @@ Added CSS to my HTML page
 
 [Version 1] (https://chrisdale99.github.io/John-baskerville/history1.html)
 
-A brief History of type
+A brief History of type html
+
+[Version 2] (https://chrisdale99.github.io/John-baskerville/history2.html)
+
+A brief History of type with CSS
