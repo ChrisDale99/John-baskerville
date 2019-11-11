@@ -2,7 +2,8 @@
 
 *28 October*
 
-[Version 1] (https://chrisdale99.github.io/John-baskerville/baskerville.html)
+[Version 1] <a href="https://chrisdale99.github.io/John-baskerville/baskerville.html">Version 1</a>
+
 
 BASIC HTML
 
