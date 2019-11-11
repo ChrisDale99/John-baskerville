@@ -16,6 +16,7 @@ body {
     background: #fafafa;
     color: #333333; 
     font-family: 'Libre Baskerville', serif;
+    
 }
 
 /*----- TYPOGRAPHY -----*/
@@ -60,6 +61,17 @@ blockquote cite{
 }
 
 header, h3 { font-style: italic;}
+
+.intro{ font-size: 1.3em;
+        line-height: 1.3em;
+        
+}
+
+.leader { font-size: 1.5em;
+        line-height: 1.5em;
+        color: darkgreen;
+        
+}
 
 /*----- Footer -----*/
 
