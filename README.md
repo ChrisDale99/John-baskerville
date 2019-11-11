@@ -12,7 +12,7 @@
 
 *11th November*
 
-<a href="https://chrisdale99.github.io/John-baskerville/baskerville3.html">Version 3:</a>WEB FONTS + MORE CSS
+<a href="https://chrisdale99.github.io/John-baskerville/baskerville3.html">Version 3:</a> WEB FONTS + MORE CSS
 
 
 
