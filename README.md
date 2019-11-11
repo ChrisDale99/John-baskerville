@@ -18,11 +18,10 @@
 
 # History of type
 
-[Version 1] (https://chrisdale99.github.io/John-baskerville/history1.html)
+<a href="https://chrisdale99.github.io/John-baskerville/history1.html"> Version 1 </a> A brief History of type HTML
 
-A brief History of type HTML
 
-[Version 2] (https://chrisdale99.github.io/John-baskerville/history2.html)
+<a href="https://chrisdale99.github.io/John-baskerville/history2.html"> Version 2 </a> A brief History of type with CSS
 
-A brief History of type with CSS
+
 
