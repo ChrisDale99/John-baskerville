@@ -2,20 +2,19 @@
 
 *28 October*
 
-[Version 1] <a href="https://chrisdale99.github.io/John-baskerville/baskerville.html">Version 1</a>
-
+<a href="https://chrisdale99.github.io/John-baskerville/baskerville.html">Version 1</a>
 
 BASIC HTML
 
 *4th November*
 
-[Version 2] (https://chrisdale99.github.io/John-baskerville/baskerville2.html)
+<a href="https://chrisdale99.github.io/John-baskerville/baskerville2.html">Version 2</a>
 
 BASIC CSS
 
 *11th November*
 
-[Version 3] (https://chrisdale99.github.io/John-baskerville/baskerville3.html)
+<a href="https://chrisdale99.github.io/John-baskerville/baskerville3.html">Version 3</a>
 
 WEB FONTS + MORE CSS
 
