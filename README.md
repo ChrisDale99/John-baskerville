@@ -4,17 +4,19 @@
 
 [Version 1] (https://chrisdale99.github.io/John-baskerville/baskerville.html)
 
-Created my first HTML page
+BASIC HTML
 
 *4th November*
 
 [Version 2] (https://chrisdale99.github.io/John-baskerville/baskerville2.html)
 
-Added CSS to my HTML page
+BASIC CSS
 
 *11th November*
 
 [Version 3] (https://chrisdale99.github.io/John-baskerville/baskerville3.html)
+
+WEB FONTS + MORE CSS
 
 # History of type
 
