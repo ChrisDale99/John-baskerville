@@ -15,6 +15,7 @@ body {
     margin: auto;
     background: black;
     color: white; 
+    font-family: 'Alata', sans-serif;
    
 }
 
@@ -28,6 +29,9 @@ h1, h2, h3 { font-weight: normal;
 p,blockquote{
     margin-bottom: 1.5em;
     line-height: 1.4;
+}
+
+p {font-family: 'Ibarra Real Nova', serif;
 }
 
 h1 {font-size: 2.827em;
