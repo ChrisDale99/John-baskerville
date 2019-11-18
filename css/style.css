@@ -71,8 +71,52 @@ header, h3 { font-style: italic;}
         color: darkgreen;
         
 }
+/*----- STYLING LINKS -----*/
 
-/*----- Footer -----*/
+a {
+    color: orange;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color:burlywood;
+    border-bottom: 1px dotted;
+}
+
+/*----- NAVIGATION ----*/
+
+nav{
+    position: fixed;
+    top: 0;
+    left:0;
+    margin:0;
+    width: 100%;
+    background-color: maroon;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+
+nav ul{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li{
+    display:inline;
+    margin:20px;
+}
+
+nav a:link{
+    color: white;
+}
+
+nav a:hover{
+    color: pink;
+}
+
+/*----- FOOTER -----*/
 
 footer{
        text-align: center;

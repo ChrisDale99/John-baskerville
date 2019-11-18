@@ -14,7 +14,9 @@
 
 <a href="https://chrisdale99.github.io/John-baskerville/baskerville3.html">Version 3:</a> WEB FONTS + MORE CSS
 
+*18th November*
 
+<a href="https://chrisdale99.github.io/John-baskerville/history4.html"> Version 4 </a> CSS + navigation styling
 
 # History of type
 
@@ -25,6 +27,7 @@
 
 
 <a href="https://chrisdale99.github.io/John-baskerville/history3.html"> Version 3 </a> A brief History of type with CSS + Web Fonts
+
 
 
 
