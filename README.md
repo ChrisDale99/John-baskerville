@@ -28,6 +28,7 @@
 
 <a href="https://chrisdale99.github.io/John-baskerville/history3.html"> Version 3 </a> A brief History of type with CSS + Web Fonts
 
+<a href="https://chrisdale99.github.io/John-baskerville/history4.html"> Version 4 </a>  
 
 
 

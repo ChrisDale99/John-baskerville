@@ -11,49 +11,33 @@
 
 body {
     width: 80%;
-    max-width: 700px;
+    max-width: 600px;
     margin: auto;
-    background: darkgrey;
-    color: maroon; 
-    font-family: 'Libre Baskerville', serif; 
+    background: grey;
+    color: white; 
+    font-family: 'Alata', sans-serif;
+   
 }
-
-.type-list{
-    margin: 1em 0;
-    color: maroon;
-}
-
-.type-list ul{
-    list-style: none;
-}
-
-.type-list li {
-    margin: 0.5em;
-}
-
-.list-title {
-    font-size: 1.4em;
-    color:white;
-}
-
 
 /*----- TYPOGRAPHY -----*/
 
 h1, h2, h3 { font-weight: normal;
-    color: white;
+    color: maroon;
     text-align: center;
 }
 
 p,blockquote{
     margin-bottom: 1.5em;
-    line-height: 1.4em;
+    line-height: 1.4;
 }
 
-p {font-family: 'Open Sans', sans-serif;}
+p {font-family: 'Ibarra Real Nova', serif;
+}
 
 h1 {font-size: 2.827em;
     margin-top: 2em;
     margin-bottom: 0.1em;
+   
 }
 
 h2 {font-size: 1.999em;
@@ -68,28 +52,15 @@ blockquote{
     font-size:1.414em;
     hanging-punctuation: first;
     text-indent: -0.45em;
-    color: black;
+    color: maroon;
 
 }
 
 blockquote cite{
     font-size:1em;
-    font-family: 'Open Sans', sans-serif;
     
 }
 
-header, h3 { font-style: italic;}
-
-.intro{ font-size: 1.3em;
-        line-height: 1.3em;
-        
-}
-
-.leader { font-size: 1.5em;
-        line-height: 1.5em;
-        color: white;
-        
-}
 /*----- STYLING LINKS -----*/
 
 a {
@@ -137,7 +108,8 @@ nav a:hover{
 
 
 
-/*----- FOOTER -----*/
+
+/*----- Footer -----*/
 
 footer{
        text-align: center;
