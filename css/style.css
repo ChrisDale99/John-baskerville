@@ -1,10 +1,10 @@
 /*----- CSS Reset -----*/
 
-*{
+* {
     padding: 0;
     margin: 0;
     font-size: 100%;
-    line-height: 1em;  
+    line-height: 1em;
 }
 
 /*----- Main body styling ------*/
@@ -14,16 +14,16 @@ body {
     max-width: 700px;
     margin: auto;
     background: darkgrey;
-    color: maroon; 
-    font-family: 'Libre Baskerville', serif; 
+    color: maroon;
+    font-family: 'Libre Baskerville', serif;
 }
 
-.type-list{
+.type-list {
     margin: 1em 0;
     color: maroon;
 }
 
-.type-list ul{
+.type-list ul {
     list-style: none;
 }
 
@@ -33,115 +33,178 @@ body {
 
 .list-title {
     font-size: 1.4em;
-    color:white;
+    color: white;
 }
 
 
 /*----- TYPOGRAPHY -----*/
 
-h1, h2, h3 { font-weight: normal;
+h1,
+h2,
+h3 {
+    font-weight: normal;
     color: white;
     text-align: center;
 }
 
-p,blockquote{
+p,
+blockquote {
     margin-bottom: 1.5em;
     line-height: 1.4em;
 }
 
-p {font-family: 'Open Sans', sans-serif;}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
 
-h1 {font-size: 2.827em;
+h1 {
+    font-size: 2.827em;
     margin-top: 2em;
     margin-bottom: 0.1em;
 }
 
-h2 {font-size: 1.999em;
+h2 {
+    font-size: 1.999em;
     margin: 1em 0 1em 0;
 }
 
-h3 {font-size: 1.414em;
+h3 {
+    font-size: 1.414em;
     margin: 1.5em 0;
 }
 
-blockquote{
-    font-size:1.414em;
+blockquote {
+    font-size: 1.414em;
     hanging-punctuation: first;
     text-indent: -0.45em;
     color: black;
 
 }
 
-blockquote cite{
-    font-size:1em;
+blockquote cite {
+    font-size: 1em;
     font-family: 'Open Sans', sans-serif;
-    
+
 }
 
-header, h3 { font-style: italic;}
-
-.intro{ font-size: 1.3em;
-        line-height: 1.3em;
-        
+header,
+h3 {
+    font-style: italic;
 }
 
-.leader { font-size: 1.5em;
-        line-height: 1.5em;
-        color: white;
-        
+.intro {
+    font-size: 1.3em;
+    line-height: 1.3em;
+
 }
+
+.leader {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: white;
+
+}
+
 /*----- STYLING LINKS -----*/
 
 a {
     color: white;
     text-decoration: none;
-    
+
 }
 
 a:hover {
-    color:burlywood;
+    color: burlywood;
     border-bottom: 1px dotted;
 }
 
 /*----- NAVIGATION ----*/
 
-nav{
+nav {
     position: fixed;
     top: 0;
-    left:0;
-    margin:0;
+    left: 0;
+    margin: 0;
     width: 100%;
     background-color: maroon;
     padding: 1em 0;
     font-size: 0.75em;
 }
 
-nav ul{
+nav ul {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
-nav ul li{
-    display:inline;
-    margin:20px;
+nav ul li {
+    display: inline;
+    margin: 20px;
 }
 
-nav a:link{
+nav a:link {
     color: white;
 }
 
-nav a:hover{
+nav a:hover {
     color: pink;
 }
+
+/*----- TABLE STYLING -----*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%
+}
+
+caption {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: maroon;
+
+}
+
+th,
+td {
+    padding: .6em;
+    color: white;
+}
+
+table,
+td {
+
+    border: 1px solid maroon;
+}
+
+/*----- IMAGES -----*/
+
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%
+}
+
+
 
 
 
 /*----- FOOTER -----*/
 
-footer{
-       text-align: center;
-       font-size: 0.707em;
-       padding: 2em 0 4em 0;
+footer {
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 4em 0;
 }
-
