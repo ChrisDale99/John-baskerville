@@ -110,41 +110,59 @@ nav a:hover{
 
 /*----- TABLE STYLING -----*/
 
+
+
 table {
     margin: auto;
     display: table;
     border-collapse: collapse;
     border-spacing: 2px;
     margin-bottom: 2em;
-    width: 100%
+    width: 100%;
 }
 
 caption {
-    margin-top: 1.5em;
+
     margin-bottom: 1.5em;
     text-transform: uppercase;
+
+
 }
 
 th {
-    color: #fafafa;
+
+    color: white;
     text-transform: uppercase;
-    font-weight: normal;
+    font-weight: bold;
     text-align: left;
-    background: maroon;
+    background: grey;
 
 }
 
 th,
 td {
     padding: .6em;
-    color: white;
 }
 
 table,
 td {
-
+    background: grey;
     border: 1px solid maroon;
+
 }
+
+td {
+
+    color: white;
+
+}
+
+tr {
+
+    background: grey;
+
+}
+
 
 /*----- IMAGES -----*/
 
