@@ -22,6 +22,8 @@
 
 <a href="https://chrisdale99.github.io/John-baskerville/history5.html"> Version 5:</a> CSS + navigation styling
 
+*2nd December*
+
 <a href="https://chrisdale99.github.io/John-baskerville/history5.html"> Version 6:</a> Flexbox
 
 # History of type
